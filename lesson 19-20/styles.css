@@ -1,0 +1,10 @@
+.color > button{
+    width: 25px;
+    height: 12.5px;
+}
+
+.colorBox {
+    background-color: red;
+    width: 40px;
+    height: 40px;
+}
